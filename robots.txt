@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turadsmu.github.io/sitemap.txt.gz
+Sitemap: https://turadsmu.github.io/app/sitemap.txt.gz
+Sitemap: https://turadsmu.github.io/assets/sitemap.txt.gz
+Sitemap: https://turadsmu.github.io/css/sitemap.txt.gz
+Sitemap: https://turadsmu.github.io/includes/sitemap.txt.gz
+Sitemap: https://turadsmu.github.io/item/sitemap.txt.gz
+Sitemap: https://turadsmu.github.io/src/sitemap.txt.gz
